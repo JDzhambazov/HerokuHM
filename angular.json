@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "herokuHM"
+  "defaultProject": "herokuHM",
+  "cli": {
+    "analytics": false
+  }
 }
